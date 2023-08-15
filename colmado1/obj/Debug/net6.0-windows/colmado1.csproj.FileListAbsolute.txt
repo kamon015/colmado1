@@ -1,0 +1,17 @@
+C:\Users\celso\source\repos\colmado1\bin\Debug\net6.0-windows\colmado1.exe
+C:\Users\celso\source\repos\colmado1\bin\Debug\net6.0-windows\colmado1.deps.json
+C:\Users\celso\source\repos\colmado1\bin\Debug\net6.0-windows\colmado1.runtimeconfig.json
+C:\Users\celso\source\repos\colmado1\bin\Debug\net6.0-windows\colmado1.dll
+C:\Users\celso\source\repos\colmado1\bin\Debug\net6.0-windows\colmado1.pdb
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.csproj.GenerateResource.cache
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.AssemblyInfoInputs.cache
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.AssemblyInfo.cs
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.csproj.CoreCompileInputs.cache
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.dll
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\refint\colmado1.dll
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.pdb
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.genruntimeconfig.cache
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\ref\colmado1.dll
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.Form1.resources
+C:\Users\celso\source\repos\colmado1\obj\Debug\net6.0-windows\colmado1.Properties.Resources.resources
